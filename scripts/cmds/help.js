@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ ☠️ | Hi Guys I Am Shizuka Bot My owner Id link https://m.me/Alvee.Evan.Roky.Owner.Your.Dad ]";
+const doNotDelete = "[ ☠️ | Hi Guys I Am Shizuka Bot My owner Id link m.me/Bangladesh.Top.Video.Editor.Rocky.Vai.320 ]";
 /**
 * @author NTKhang
 * @author: do not delete it
