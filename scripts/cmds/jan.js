@@ -56,7 +56,7 @@ module.exports = {
       "আমাকে ডাকলে, আমি কিন্তূ কিস করে দেবো😘",
       "🐒🐒🐒",
       "bye",
-      "naw message daw m.me/Alvee.Evan.Roky.Owner.Your.Dad",
+      "naw message daw m.me/Bangladesh.Top.Video.Editor.Rocky.Vai.320",
       "mb ney bye",
       "meww",
       "বলো কি বলবা, সবার সামনে বলবা নাকি?🤭🤏",
@@ -64,7 +64,7 @@ module.exports = {
       "𝗜 𝗵𝗮𝘁𝗲 𝘆𝗼𝘂__😏😏",
     ];
 
-    const mahmuds = ["jan", "jaan", "জান", "hinata", "bby", "baby", "bbu", "বাবু", "বেবি"];
+    const mahmuds = ["jan", "jaan", "জান", "Shizuka", "bby", "baby", "bbu", "বাবু", "বেবি","Hinata"];
     let message = event.body ? event.body.toLowerCase() : "";
     const words = message.split(" ");
     const wordCount = words.length;
